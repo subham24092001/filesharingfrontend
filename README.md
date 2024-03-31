@@ -1,8 +1,48 @@
-# React + Vite
+## Frontend Setup Guide
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the frontend codebase for the file sharing application. Below are the instructions to set up and run the frontend locally.
 
-Currently, two official plugins are available:
+### Cloning the Repository
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+git clone https://github.com/subham24092001/filesharingfrontend.git
+```
+
+### Accessing the Deployed Application
+
+The frontend of the file sharing application is deployed and can be accessed using the following link:
+
+[File Sharing Application - Live Demo](https://6609382a079846a068d9c6d1--dreamy-capybara-b5ac55.netlify.app/)
+
+### Technologies Used
+
+- React.js
+- HTML/CSS
+- JavaScript
+
+### Running Locally
+
+To run the frontend locally, follow these steps:
+
+1. Navigate to the project directory:
+
+```bash
+cd filesharingfrontend
+```
+
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+3. Start the development server:
+
+```bash
+npm run dev
+```
+
+### Features
+
+- Upload files
+- Download files
